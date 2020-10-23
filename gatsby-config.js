@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/resume",
+  // pathPrefix: "/resume", // Enable if not deployed via custom subdomain.
   siteMetadata: {
     title: `Joel Jeremy Resume`,
     description: `Resume of Joel Jeremy Marquez`,
